@@ -1,3 +1,8 @@
+-- If you use spring-boot-servers-demo repo as backend, don't forget to
+Put 4 images, named: server1.png, server2.png, server3.png, server4.png to the path C:\Users\your_username\Downloads\images
+
+-- Use bootstrap/fontawesome 4.7
+
 # Serverapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
